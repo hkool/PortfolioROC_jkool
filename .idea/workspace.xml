@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43e70663-a8cf-4204-b680-11da01066da3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hjUB7J9yIP2Wzaa5bOuxC6DNEW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\memoryGame\js\model" />
+      <recent name="C:\xampp\htdocs\memoryGame\js\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/memoryGame/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43e70663-a8cf-4204-b680-11da01066da3" name="Default Changelist" comment="" />
+      <created>1600523856671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600523856671</updated>
+      <workItem from="1600523857975" duration="723000" />
+      <workItem from="1600524806059" duration="15063000" />
+      <workItem from="1600589382725" duration="35497000" />
+      <workItem from="1600681991954" duration="9898000" />
+      <workItem from="1600752792214" duration="15433000" />
+      <workItem from="1600851233324" duration="3937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600802322504">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="229" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870@0.0.1600.870" timestamp="1600802322504" />
+    <state x="44" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1600752797292">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="44" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1600752797292" />
+    <state x="91" y="33" width="607" height="804" key="find.popup" timestamp="1600619697863">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="91" y="33" width="607" height="804" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1600619697862" />
+  </component>
+</project>
