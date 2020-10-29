@@ -1,0 +1,73 @@
+body{
+    font-family: "Calibri Light";
+    color: rebeccapurple;
+    padding:0;
+    margin:0;
+}
+#wrapper{
+    background-image:url("images/lavalamp.jpg");
+}
+nav, footer{
+    background-color:lightslategrey;
+    display:flex;
+    justify-content: space-around;
+    padding:20px;
+    border-radius: 255px 30px 225px 15px/15px 225px 15px 255px;
+}
+nav a, nav a.link, nav a.visited, footer{
+    color:lightgoldenrodyellow;
+    text-decoration:none;
+}
+
+header{
+    display:flex;
+    flex-wrap:nowrap;
+}
+h1{
+    background-color: goldenrod;
+
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:10px 2px 7px 4px;
+}
+picture > img{
+    padding: 20px;
+    background-color: goldenrod ;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:10px;
+    width:400px;
+
+}
+table{
+    border-collapse: collapse;
+}
+
+table, tr, td{
+    border:1px solid rebeccapurple;
+    padding:10px;
+}
+#blokje {
+    display: flex;
+    align-items: baseline;
+
+}
+#sub{
+    width:30%;
+    background-color: goldenrod;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:20px;
+    margin:25px;
+    height: 400px;
+
+}
+#toekomstSD {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+#toekomstSD>img{
+    height:200px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding: 20px;
+    background-color: goldenrod ;
+    margin:20px
+}

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/memoryGame.iml" filepath="$PROJECT_DIR$/.idea/memoryGame.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/deelproject 1a portfolio.iml" filepath="$PROJECT_DIR$/.idea/deelproject 1a portfolio.iml" />
+>>>>>>> Eerste commit, flexbox toegevoegd
     </modules>
   </component>
 </project>
